@@ -5,3 +5,19 @@
 	position: relative;
 	background-color: red;
 }
+
+.banner{
+	height: 120px;
+	width: 80vw;
+	display: block;
+	position: relative;
+	background-color: blue;
+}
+
+.inbanner{
+	width: 15vw;
+	height: 120px;
+	display: inline-block;
+	position: relative;
+	background-color: green;
+}
