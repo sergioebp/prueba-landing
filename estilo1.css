@@ -5,18 +5,19 @@
 	position: relative;
 }
 
-.banner{
-	height: 120px;
-	width: 80vw;
+.inbanner{
+	width: auto;
+	height: 10vw;
 	display: block;
-	position: relative;
 	background-color: blue;
+	text-align: center;
 }
 
-.inbanner{
-	width: 15vw;
-	height: 120px;
-	display: inline-block;
-	position: relative;
+.banner{
 	background-color: green;
+}
+
+.imgfix{
+	height: 6vw;
+	
 }
