@@ -3,5 +3,8 @@
 	width: 100px;
 	display: block;
 	position: relative;
-	background-color: red;
+}
+
+.titulo{
+	text-align: center;
 }

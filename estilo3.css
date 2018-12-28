@@ -3,5 +3,13 @@
 	width: 100px;
 	display: block;
 	position: relative;
-	background-color: red;
+}
+
+.titulo{
+	text-align: center;
+}
+
+.imagen{
+	max-width: 500px;
+	height: auto;
 }
