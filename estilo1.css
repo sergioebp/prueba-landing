@@ -9,15 +9,15 @@
 	width: auto;
 	height: 10vw;
 	display: block;
-	background-color: blue;
+	background-color: lightblue;
 	text-align: center;
 }
 
-.banner{
-	background-color: green;
-}
 
 .imgfix{
 	height: 6vw;
-	
+}
+
+.margen{
+	margin-top: 4vw;
 }
